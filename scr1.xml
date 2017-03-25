@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#fb2b0538"
+                android:centerColor="#60154a"
+                android:endColor="#2d4d64"
+                android:angle="270"/>
+        </shape>
+    </item>
+
+</selector>
+<!-- this is for use+ crypto-->
